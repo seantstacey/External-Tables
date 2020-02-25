@@ -1,4 +1,4 @@
-# External-Tables
+# Oracle External-Tables
 Oracle Database - External Table samples and datasets
 
 This repository includes code samples and sample data for accessing Oracle External Tables.
