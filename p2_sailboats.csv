@@ -1,0 +1,59 @@
+﻿61,Catalina,28,1994,28.5,10.17,5.25,8300,29000.00,2,1,mono,masthead sloop,Universal,diesel,18HP
+62,Catalina,350,2005,35.42,12.99,6.66,12937,105000.00,2,1,mono,masthead sloop,Universal,diesel,35HP
+63,Catalina,Capri 14.2,1993,14,6,3.5,340,2000.00,0,0,mono,fractional sloop,n/a,,
+64,Catalina,Capri 22,2001,22,8,4,2200,9500.00,0,0,mono,fractional sloop,n/a,,
+65,Catalina,22 Sport,2018,23.9,7.75,5,2380,22000.00,,,mono,,,,
+66,Catalina,Capri 26,1990,26,9.83,4.9,5250,2700.00,1,1,mono,,,,
+67,Catalina ,Capri 26,2000,26,9.83,4.9,5250,13000.00,1,1,mono,masthead sloop,,,
+68,Catana,471,2004,51.51,25.26,8.2,26455,750000.00,3,3,catamaran,fractional sloop,Volvo,diesel,55HP
+69,Catana,47,2012,47,25.08,8.16,24035,350000.00,4,4,catamaran,fractional sloop,Volvo Penta,diesel,80HP
+70,Catana,42,2012,41.27,22.64,8.86,19621,235000.00,3,2,catamaran,fractional sloop,Volvo Penta,diesel,26HP
+71,Catana,381,1999,38.75,21.66,6.6,14500,1785500.00,3,3,catamaran,fractional sloop,Volvo Penta,diesel,150HP
+72,Catana,58,2010,62.3,29.9,10.2,53000,707000.00,3,3,catamaran,fractional sloop,Volvo Penta,diesel,75HP
+73,Catana,50,2007,52.5,25.91,9.67,16500,725000.00,3,3,catamaran,fractional sloop,Volvo Penta,diesel,78HP
+74,Catana,522,2002,53.33,28.15,8.5,,650000,3,3,catamaran,,Volvo TMD 22 P,diesel,78HP
+75,Colgate,26,2000,25.67,8.6,4.5,2600,19500.00,0,0,mono,fractional sloop,n/a,,
+76,Colgate,26,1997,25.67,8.6,4.5,2600,18500.00,0,0,mono,fractional sloop,n/a,,
+77,Colgate,26,2003,25.67,8.6,4.5,2600,23995.00,0,0,mono,fractional sloop,n/a,,
+78,Colgate,26,2006,25.67,8.6,4.5,2600,13000.00,1,1,mono,fractional sloop,n/a,,
+79,CSY,44,1978,44,13.33,6.5,38000,445000.00,3,2,catamaran,fractional sloop,Volvo Penta,diesel,
+80,C-Yacht,42ac,2017,42.55,13.45,6.6,25353,35000.00,1,1,mono,masthead sloop,,,
+81,Dufour,Nautitech 475,1995,47,25,4,20286,279000.00,4,4,catamaran,fractional sloop,Volvo,diesel,
+82,Dufour,Nautitech 395,1997,39,21,3.92,13200,154500.00,4,2,catamaran,fractional sloop,Yanmar,diesel,
+83,Dufour,Nautitech 395,1999,39,21,3.92,13200,125700.00,4,2,catamaran,fractional sloop,Yanmar,diesel,
+84,Dufour,Nautitech 395,1999,39,21,3.92,13200,167000.00,4,2,catamaran,fractional sloop,Yanmar,diesel,
+85,Dufour,512 Grand Large,2016,51,15,7,33609,510000.00,2,2,mono,fractional sloop,,,
+86,Dufour,485 Grand Large,2007,48,15.41,6,27072,273000.00,3,3,mono,fractional sloop,,,
+87,Dufour,Sortilege 41,1972,41,12.3,5.75,18982,28500.00,3,1,mono,masthead ketch,Yanmar,diesel,
+88,Dufour,2800,1981,27,9.6,5,6064,16000.00,2,1,mono,masthead sloop,Yanmar,diesel,
+89,Dufour,375 Grand Large,2011,39,12.6,6.25,15564,137700.00,2,1,mono,fractional sloop,Volvo Penta,diesel,
+90,Dufour,390,2018,39,13,6.25,16515,215000.00,3,2,mono,fractional sloop,,diesel,30HP
+91,Eagle,37,2018,36.75,8.5,5.25,7275,196600.00,1,1,mono,fractional sloop,saildrive,diesel,12HP
+92,Elan,GT5,2017,43.25,12.75,8,17800,84000.00,3,2,mono,fractional sloop,,,
+93,Elan,40 Performance,2003,39,12.57,6.56,15873,32000.00,0,0,mono,masthead sloop,,,
+94,Elan,E1,2016,20.8,8,5,2500,165000.00,3,2,mono,fractional sloop,,,
+95,Elan,Impression 434,2007,44,13.75,6.25,24035,77500.00,3,2,mono,fractional sloop,Volvo,diesel,
+96,Elan,Impression 344,2008,34.32,11.45,5.25,13228,62000.00,4,2,mono,masthead sloop,,,
+97,Elan,431,1988,44,13.12,6.4,18078,125000.00,2,2,mono,masthead sloop,Yanmar,diesel,44HP
+98,Ericson,26-2,1988,25.75,9.25,4.92,5250,2900.00,0,0,mono,masthead sloop,n/a,,
+99,Excess,15,2019,48.5,26.3,4.6,40500,686306.00,3,3,catamaran,fractional sloop,Yanmar - 4JH80,diesel,80HP,2/6/20,
+100,Farrier,F-22,2017,22.9,8,5,3078,3550000.00,4,3,mono,,,,
+101,Fountaine Pajot,Orana 44,2011,43,24.11,3.6,21605,335000.00,4,4,catamaran,fractional sloop,,,
+102,Fountaine Pajot,Helia 44,2013,44,25,3.75,21605,526000.00,4,4,catamaran,fractional sloop,,,
+103,Fountaine Pajot,Helia 44,2015,43.5,24.25,3.75,23810,534000.00,3,3,catamaran,fractional sloop,Volvo,diesel,55HP,7/18/20,
+104,Fountaine Pajot,Helia 44,2016,44,24.25,3.75,20000,549900.00,3,3,catamaran,fractional sloop,Volvo,diesel,55HP,7/18/20,
+105,Fountaine Pajot,Lipari 41,2011,39.21,22.15,3.61,21605,335000.00,4,2,catamaran,fractional sloop,,,
+106,Fountaine Pajot,Bahia 46,2004,46,24.28,4.25,21385,299999.00,3,3,catamaran,fractional sloop,,,
+107,Fountaine Pajot,Saona 47,2017,45.75,25.25,4.25,30423,764000.00,5,5,catamaran,fractional sloop,,,
+108,Fountaine Pajot,Saba 50 Maestro,2016,49.15,26.21,4.1,34114,882320.00,4,4,catamaran,fractional sloop,Volvo,diesel,150HP,1/31/20,
+109,Freedom Yachts,36,1987,36.42,12.5,6,14370,32000.00,1,1,mono,ketch,Westerbeke,diesel,40HP
+110,Gemini,105 mc,2001,33.5,14,5.5,8000,95000.00,3,1,catamaran,masthead sloop,Westerbeke,diesel,30HP
+111,Gemini,105 mc,2003,33.5,14,5.5,8000.,65000.00,1,1,mono,masthead sloop,Westerbeke,diesel,27HP
+112,Gemini,Freestyle 37,2019,38,,,,238000.00,2,2,catamaran,,Yanmar,diesel,15HP,1/19/20,
+113,G-Force Yachts,X-Treme 32,2017,32.75,11.25,8,4630,29875.00,0,0,mono,fractional sloop,n/a,,
+114,G-Force Yachts,X-Treme 25,2009,25.75,8.25,6.5,1874,278000.00,0,0,mono,fractional sloop,Yanmar,diesel,
+115,G-Force Yachts,X-Treme 37,2012,37,11.4,8.66,7826,8000.00,1,1,mono,masthead sloop,n/a,,
+116,Grand Soleil,39,1985,41,12.25,6.25,18298,47000.00,1,1,mono,masthead sloop,,,
+117,Grand Soleil,B&C Race Edition,2005,37,12,8,15300,157500.00,1,1,mono,fractional sloop,,,
+118,Hallberg-Rassy,340,2017,35.9,11.6,6.12,13145,206400.00,2,1,mono,fractional sloop,Volvo Penta D 1-30,diesel,27HP
+119,Hallberg-Rassy,57,2018,57.3,16.75,8,61730,1800000.00,3,2,mono,fractional sloop,Volvo Penta,diesel,180HP

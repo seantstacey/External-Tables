@@ -1,0 +1,67 @@
+﻿185,Macgregor,26X,2002,25.82,7.82,5.5,2250,1500.00,1,1,mono,fractional sloop,,gasoline,
+186,Macgregor,25,1975,25.92,7.92,5.67,2100,100000.00,2,1,mono,cutter,Macgregor,diesel,
+187,Macgregor,65,1986,65,11.67,8.5,22000,29900.00,1,1,mono,fractional sloop,,,
+188,Macgregor,26M,2010,25.83,7.75,5.75,2550,7900.00,0,0,mono,masthead sloop,n/a,,
+189,Melger,IC37,2018,37.12,11.95,8.25,7920,295000.00,0,1,mono,fractional sloop,Yanmar,diesel,21HP
+190,Moody,54,2001,55,12,6,44132,355000.00,4,2,mono,cutter,,,
+191,Moody,54,2003,53.92,15.92,7,44132,303298.00,3,2,mono,cutter,Yanmar - 4JH3-THE,diesel,100HP
+192,Moody,29,1982,29.75,10.5,4.5,31945,20600.00,4,2,mono,masthead sloop,,,
+193,Moody,56,2004,58,15.9,7.5,44132,478000.00,2,1,mono,cutter,,,
+194,More,55,2017,54,16.4,8.9,33730,27500.00,2,1,mono,,,,
+195,Morgan,41 Classic,1988,41,11.25,9.42,19500,55000.00,1,1,mono,cutter,Yanmar,diesel,40HP
+196,Najad,395,2018,39.4,13.16,6.83,21337,425000.00,4,2,mono,fractional sloop,Yanmar,diesel,57HP
+197,Nautitech,47,2007,47.42,25.75,3.93,24441,353000.00,6,4,catamaran,fractional sloop,Yanmar - 4JH4CE,diesel,54HP
+198,Nautitech,47,2008,47.42,25.75,3.93,24441,306000.00,4,4,catamaran,fractional sloop,Yanmar - 4JH4CE,diesel,54HP
+199,Nautitech,46 Fly,2019,45.25,24.67,4.67,25133,790000.00,4,4,catamaran,fractional sloop,Volvo Penta,diesel,40-50HP
+200,Nautitech,Open 40,2019,39.33,39.12,4.45,22800,,4,2,catamaran,fractional sloop,Saildrive,diesel,20-30HP
+201,Nautor,Swan 56,1998,57.5,15.52,8.86,43000,598000.00,4,2,mono,masthead sloop,,,
+202,Nautor,Swan 45,2005,45.37,12.86,9.44,21716,299000.00,4,2,mono,fractional sloop,,,
+203,Nautor,Swan 44,1999,44,13.65,8.25,24500,298000.00,2,2,mono,masthead sloop,,,
+204,Nautor,Swan 44 MkII,1997,44.9,13.5,7,24300,239000.00,2,2,mono,masthead sloop,,,
+205,Nautor,Swan 441R,1979,44.42,13.25,7.9,24500,160000.00,3,1,mono,masthead sloop,,,
+206,Nautor,Swan 371,1980,37,11.35,6.88,16,100,92000.00,3,1,mono,masthead sloop,,,
+207,Northman,Maxus evo 24,2018,24,8.3,4.5,4300,31000.00,1,1,mono,fractional sloop,Auxilliary,,5-10HP
+208,Oday,35,1986,35,11.25,5.58,11500,14500.00,2,1,mono,masthead sloop,Westerbeke,diesel,28HP
+209,Oday,32,1976,31.58,10.5,7.08,11000,98500.00,3,1,catamaran,masthead sloop,Westerbeke,diesel,27HP
+210,Olson,25,1988,25,9,4.5,2900,82500.00,2,2,mono,Cutter,Perkins,diesel,50HP
+211,Outremer,45,2015,44.95,23.6,7.38,13448,789000.00,3,2,catamaran,fractional sloop,Volvo Penta,diesel,
+212,Outremer,45,2014,44.95,23.6,7.38,13448,676500.00,3,2,catamaran,fractional sloop,,,
+213,Outremer,45,2008,44.95,23.6,7.38,13448,413069.00,4,2,catamaran,fractional sloop,Yanmar,diesel,
+214,Outremer,55 Light,2000,55,22.58,9.83,20930,357000.00,4,2,catamaran,masthead sloop,Yanmar,diesel,
+215,Oyster,61,1998,61,16.8,8.25,62000,510000.00,4,4,mono,Cutter,,,
+216,Oyster,565,2017,59.25,16.8,8,56370,1800000.00,3,2,mono,,,,
+217,Pearson,365,1981,36.42,11.42,4.5,17700,35000.00,1,1,mono,masthead sloop,Yanmar,diesel,30HP
+218,RM,RM 970,2017,34.75,12.1,5.5,8596,140000.00,1,1,mono,fractional sloop,,,
+219,RM ,1360,2016,44.63,14.76,8.03,20723,336900.00,3,2,mono,cutter marconi,,diesel,75HP
+220,S2,11.0 C,1983,36,11.75,4.4,16000,25000.00,1,1,mono,masthead sloop,Yanmar,diesel,20HP
+221,S2,9.1,1985,29.83,10.5,5.5,7850,15500.00,2,1,mono,masthead sloop,Yanmar,diesel,15HP
+222,S2,9.2,1981,29.92,10.25,4.92,9800,48000.00,1,1,mono,Cutter,Yanmar,diesel,39HP
+223,Sabre,34-2,1991,34.17,11.17,6,11500,34500.00,1,1,mono,masthead sloop,Westerbeke,diesel,18HP
+224,Sabre,30 Mk III,1986,30.58,10.5,5.3,9400,6500.00,2,1,mono,fractional sloop,Westerbeke,diesel,12HP
+225,Saffier,SE 37 Lounge,2018,36.12,11.3,6.95,10580,266000.00,0,1,mono,fractional sloop,Yanmar 2YM 20 Saildrive,diesel,21HP
+226,Sage Marine,Sage 15,2017,15.25,6.4,3,775,2500000.00,4,4,catamaran,,,,
+227,Saltram,Saga 36,1988,35.75,10.75,5.67,18000,26000.00,2,1,mono,masthead sloop,Universal,diesel,23HP
+228,Seawind,1000,2009,33,20,3,8818,205000.00,3,1,catamaran,fractional sloop,,,
+229,Seawind,1000XL,2010,35.45,20,3,10000,225000.00,3,1,catamaran,fractional sloop,,,
+230,Seawind,1250,2014,41,22.3,3.6,18000,495000.00,3,2,catamaran,fractional sloop,,,
+231,Seawind,1250,2010,41,22.3,3.6,18000,477000.00,3,2,catamaran,fractional sloop,,,
+232,Seawind,1200,2001,39,22,4,18000,250000.00,3,1,catamaran,fractional sloop,,,
+233,Seawind,1160,2010,38,24.3,4,15432,395000.00,3,1,catamaran,fractional sloop,,,
+234,Seawind,1000,2001,33,20,3,8818,154000.00,3,1,catamaran,fractional sloop,,,
+235,Seawind,1260,2018,41,22.25,4,18077,460000.00,3,2,catamaran,fractional sloop,2x saildrive,diesel,29HP
+236,Sirius,22,1980,21,7.92,5,2000,52000.00,1,1,mono,masthead sloop,Yanmar,diesel,7.5HP
+237,Sirius,28,1983,28,9.67,4.3,6700,17500.00,0,1,mono,masthead sloop,Volvo Penta,diesel,18HP
+238,Sirius,31,1986,30.5,10.17,4.92,9920,142500.00,2,1,mono,masthead sloop,Volvo Penta,diesel,29HP
+239,Sirius,32DS,1996,31.82,10.43,3.77,12125,450000.00,4,2,catamaran,fractional sloop,Volvo Penta,diesel,55HP
+240,Surfari,50,2018,50,14.66,5.6,44900,2800000.00,3,3,mono,fractional sloop,,diesel,80HP
+241,Sweden,42,2003,43.47,12.8,6.89,22046,150000.00,2,1,mono,masthead sloop,Yanmar,diesel,
+242,Sweden,390,1998,38.98,12.7,7.38,16755,510000.00,3,2,mono,,,,
+243,Tartan,40,1987,40.25,12.67,7.5,17250,450000.00,3,2,mono,,,,
+244,Tartan,37,2017,37,12,4.8,15000,15000.00,0,0,mono,fractional sloop,Faryman,diesel,12HP
+245,Tartan,T-10,1979,33,9.25,5,10000,450000.00,5,3,mono,,,,
+246,Tripp,36,1991,36,11.3,6,9685,252000.00,3,2,mono,fractional sloop,Volvo Penta,diesel,
+247,Unik Yachts,Lion 870,2017,28.65,9.8,5.9,6393,75000.00,1,1,mono,fractional sloop,,,
+248,Venture Sport Boats,Malbec 18,2017,18,7.12,3.5,15000,19775.00,0,0,mono,fractional sloop,,,
+249,X-Yachts,Xc 42,2012,42,13,6,22928,356000.00,3,2,mono,fractional sloop,,,
+250,X-Yachts,X-43,2006,42.42,13,7.22,18960,300000.00,3,2,mono,fractional sloop,Volvo Penta,diesel,
+251,X-Yachts,X-46,2005,45.96,13.62,7.87,22928,19900.00,0,0,mono,fractional sloop,n/a,,
