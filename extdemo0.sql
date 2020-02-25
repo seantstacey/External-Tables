@@ -13,10 +13,8 @@
 -- ---------------------------------------------------------------------------------
 
 SET DEFINE OFF
-SET PAGES 0 
+SET ECHO ON
 
-set echo on
-set pause on
 drop table EXTTAB;
 
 CREATE TABLE EXTTAB 
@@ -47,7 +45,7 @@ ORGANIZATION EXTERNAL
   )
   REJECT LIMIT UNLIMITED;
 
--- select * from EXTTAB ;
+select * from EXTTAB ;
 
 select a.custName, a.businessName, a.state 
 from  EXTTAB a,  BUSINESSES b
