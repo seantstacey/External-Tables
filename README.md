@@ -5,6 +5,8 @@ This repository includes code samples and sample data for accessing Oracle Exter
 
 The following datasets are provided as sample data-sets.  Please note the data in these samples is fictitious.
 
+*This repo is for demonstration purposes only. Comments and issues may or may not be responded to.*
+
 ## Datasets:
 - customerdata.csv
 - orders_2019.csv
